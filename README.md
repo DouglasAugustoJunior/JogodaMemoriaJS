@@ -8,7 +8,9 @@
  
 O **Jogo da memória** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS.
 
-![Imagem](https://github.com/DouglasAugustoJunior/)
+![Imagem](https://github.com/DouglasAugustoJunior/JogodaMemoriaJS/blob/master/_images/Game.PNG?raw=true)
+
+![Imagem](https://github.com/DouglasAugustoJunior/JogodaMemoriaJS/blob/master/_images/Game_venceu.PNG?raw=true)
 
 
  
