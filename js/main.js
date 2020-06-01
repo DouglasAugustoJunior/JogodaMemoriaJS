@@ -5,8 +5,8 @@ let cardHTML = ''; //HTML das imagens
 images.forEach(img => {
     cardHTML+= `
                 <div class="memory-card" data-card="${img}">
-                    <img class="front" src="_images/${img}">
-                    <img class="back" src="_images/js-badge.svg">
+                    <img class="front" src="images/${img}">
+                    <img class="back" src="images/js-badge.svg">
                 </div>
                 `;
 }); // monta estrutura de imagens com o vetor images
@@ -66,6 +66,6 @@ function verificaGanhou(){
         setTimeout(() =>{
             alert('Parabéns! Você venceu!');
             window.location.reload();
-        },1000);    
-    }   
+        },1000);
+    }
 }

@@ -6,11 +6,11 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/JavaScript-game-orange.svg)
  
-O **Jogo da memória** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS.
+O **Jogo da memória** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/JogodaMemoriaJS/)**
 
-![Imagem](https://github.com/DouglasAugustoJunior/JogodaMemoriaJS/blob/master/_images/Game.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/JogodaMemoriaJS/blob/master/images/Game.PNG?raw=true)
 
-![Imagem](https://github.com/DouglasAugustoJunior/JogodaMemoriaJS/blob/master/_images/Game_venceu.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/JogodaMemoriaJS/blob/master/images/Game_venceu.PNG?raw=true)
 
 
  
